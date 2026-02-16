@@ -1,6 +1,6 @@
 # 👋 Hello from Thailand 🇹🇭
 
-My name is Mink.I'm an aspiring Software Engineer and Full-stack Developer with a passion for building scalable web applications and IoT solutions. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+My name is Mink. I'm an aspiring Software Engineer and Full-stack Developer with a passion for building scalable web applications and IoT solutions. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
 ### 📊 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4d696e6b&theme=tokyonight)
