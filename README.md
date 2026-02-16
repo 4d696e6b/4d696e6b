@@ -5,4 +5,4 @@ My name is Mink. I'm an aspiring Software Engineer and Full-stack Developer with
 ### 📊 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4d696e6b&theme=tokyonight)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,cpp,cs,java,react,express,nextjs,discordjs,tailwind,aws,googlecloud,git,github,docker,firebase,mongodb,supabase,postgresql,mysql,prisma,,au,ps,pr,notion,figma&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,cpp,cs,java,react,express,nextjs,discordjs,tailwind,materialui,aws,googlecloud,git,github,docker,firebase,mongodb,supabase,postgresql,mysql,prisma,au,ps,pr,notion,figma&perline=13)](https://skillicons.dev)
